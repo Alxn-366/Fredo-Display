@@ -1,0 +1,5 @@
+# In /uploads/.htaccess
+
+<FilesMatch "\.(jpg|jpeg|png|gif)$">
+Allow from all
+</FilesMatch>
